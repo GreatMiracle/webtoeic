@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+D:\JAVA SERVLERT TOEIC\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+519982770.index
+2994018306.index
+169538451.index
+1643725551.index
+2912576708.index
+2092568648.index
+1178766797.index
